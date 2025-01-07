@@ -39,6 +39,6 @@ void draw(){
      t_total += 10 + int(dty);  // 전체 실행 시간 업데이트
      print(t_total);  // 실행 시간 출력
      print("\n");
-     delay(3);  // 프로그램 실행 속도 조
+     delay(3);  // 프로그램 실행 속도 조절
  }
 }
